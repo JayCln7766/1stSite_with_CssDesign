@@ -1,0 +1,28 @@
+h2 { 
+    background-color:rgb(183, 217, 233);
+}
+.Cl {
+   font-size: 25px;
+}
+
+.G1 {
+     font-size: 20px;
+}
+
+#R1 {
+    color: rgb(76, 32, 117);
+}
+
+#R2
+{
+    color: rgb(0, 43, 124);
+}
+
+#R3
+{
+    color: darkgreen;
+}
+
+u {
+    border: 3px dotted rgb(88, 8, 8);
+}

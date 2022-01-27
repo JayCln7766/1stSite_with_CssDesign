@@ -1,0 +1,31 @@
+
+body {
+  background-color: azure;
+}
+h1{
+  color: crimson;
+}
+
+.Change1 {
+  color: rgb(21, 31, 4);
+}
+
+.Change2 {
+
+  color: rgb(92, 13, 43);
+}
+
+hr {
+  border: 2px dotted rgb(158, 1, 14) ;
+}
+
+.Colouring {
+  color: rgb(92, 13, 43);
+}
+.Colouring2 {
+  color: rgb(92, 13, 43);
+}
+
+.ProfileI {
+   border-radius: 10px;
+}

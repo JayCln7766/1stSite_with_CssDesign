@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(186, 199, 223);
+}
+
+.G {
+    color: crimson;
+}
+B1 {
+    color: darkblue;
+}
+
+.GM {
+    color: red;
+}
+
+.CG {
+    border:2px dotted rgb(150, 3, 3);
+}
+
+hr{
+    border: solid;
+}
